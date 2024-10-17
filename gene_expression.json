@@ -1,0 +1,7 @@
+{
+    "service": "gene_expression",
+    "fetch_bin_files": {
+        "data_release": "dr40",
+        "build_number": "v2"
+    }
+}
