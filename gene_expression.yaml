@@ -1,7 +1,5 @@
----
 service_name: 'gene_expression'
 orchestrations:
   fetch_bin_files:
     data_release: 'dr40'
     build_number: 'v2'
-
